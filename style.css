@@ -1,3 +1,4 @@
+/* CSS Document */
 h1{
 	color:#8B0000;
 }
@@ -20,10 +21,18 @@ paragraph{
 	color:#2DA4B4;
 }
 body{
-	background-color: #FD841F;
+	background-color: #A29A9A;
 	color: #555555;
-	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height: 1.6em;
 }
-*{
-	align-content: center;
+.box-1{
+	background-color: #333;
+	color: #fff;
+}
+body{margin:0;}
+.container{
+	width: 80%;
+	margin: auto;
 }
